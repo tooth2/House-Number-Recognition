@@ -60,4 +60,5 @@ Since this dataset is more complex than MNIST data, a deeper network is used to 
 ## Reference 
 * [Unsupervised Representational Learning with DCGAN](https://arxiv.org/pdf/1511.06434.pdf)
 * [SVHN Dataset](http://ufldl.stanford.edu/housenumbers/)
+* [Training data](http://ufldl.stanford.edu/housenumbers/train_32x32.mat)
 * [PyTorch nn](https://pytorch.org/docs/stable/nn.html#sequential)
