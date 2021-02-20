@@ -57,6 +57,6 @@ Since this dataset is more complex than MNIST data, a deeper network is used to 
 * The labels are flipped to represent that the generator is trying to fool the discriminator into thinking that the images it generates (fakes) are real.
 
 ## Reference 
-[Unsupervised Representational Learning with DCGAN](https://arxiv.org/pdf/1511.06434.pdf)
-[SVHN Dataset](http://ufldl.stanford.edu/housenumbers/)
-[PyTorch nn](https://pytorch.org/docs/stable/nn.html#sequential)
+* [Unsupervised Representational Learning with DCGAN](https://arxiv.org/pdf/1511.06434.pdf)
+* [SVHN Dataset](http://ufldl.stanford.edu/housenumbers/)
+* [PyTorch nn](https://pytorch.org/docs/stable/nn.html#sequential)
