@@ -3,6 +3,7 @@ Using DCGAN, detect and recognize house number from google street view
 
 ## DATA SET 
 SVHN is a real-world image dataset for developing machine learning and object recognition algorithms with minimal requirement on data preprocessing and formatting. SVHN is obtained from house numbers in Google Street View images. It's a dataset built-in to the PyTorch datasets library. Download training data from http://ufldl.stanford.edu/housenumbers/train_32x32.mat to data/train_32x32.mat, transform it into Tensor datatypes, then create dataloaders to batch our data into a desired size.
+
 ![Data Set](assets/SVHN_examples.png)
 
 ## DCGAN (Deep Convolutional GANs) 
